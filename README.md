@@ -10,6 +10,6 @@ Airbnb dataset has been used.
 3. Price
 4. Content type
 
-# Proper EDA has been done for the analysis.
+Proper EDA has been done for the analysis.
 
 
